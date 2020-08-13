@@ -1,0 +1,29 @@
+[33mcommit a1d20a7194b7a18a11df1f2e37b529305cbcb0c8[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31mheroku/master[m[33m, [m[1;32mstatic-pages[m[33m)[m
+Author: seo0769 <seo@seo0769.com>
+Date:   Mon Aug 10 08:13:01 2020 +0000
+
+    基础页面“
+
+[33mcommit 25ee460e46098c00fdc92ca64a24daa981e14216[m
+Author: seo0769 <seo@seo0769.com>
+Date:   Mon Aug 10 07:39:19 2020 +0000
+
+    Add .editorconfig
+
+[33mcommit a28a702ba105bd55db0a08839ab320b338a707d9[m
+Author: seo0769 <seo@seo0769.com>
+Date:   Mon Aug 10 05:55:23 2020 +0000
+
+    Procfile for Heroku
+
+[33mcommit c71e4d5430f51e223802f02c74a3d29c24f2f5f3[m
+Author: seo0769 <seo@seo0769.com>
+Date:   Mon Aug 10 05:50:53 2020 +0000
+
+    README.md
+
+[33mcommit 4616472cc44d342b02bcf8dc813cb7746668d836[m
+Author: seo0769 <seo@seo0769.com>
+Date:   Mon Aug 10 05:43:27 2020 +0000
+
+    Initial comit
